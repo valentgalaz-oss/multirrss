@@ -1,0 +1,14 @@
+# github.com/felipeinf/instago v1.0.1
+## explicit; go 1.24.0
+github.com/felipeinf/instago
+github.com/felipeinf/instago/config
+github.com/felipeinf/instago/encoding
+github.com/felipeinf/instago/igerrors
+github.com/felipeinf/instago/internal/pickapp
+github.com/felipeinf/instago/password
+# golang.org/x/image v0.23.0
+## explicit; go 1.18
+golang.org/x/image/riff
+golang.org/x/image/vp8
+golang.org/x/image/vp8l
+golang.org/x/image/webp
